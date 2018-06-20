@@ -47,8 +47,8 @@ AJACS越後 @ 新潟大学理学部マルチメディア教室
     - そういう質問がでると、「そういう質問をしてもよいのだ」という空気になり、この講義から得られる情報が増え満足度が上がります(たぶん)。
     - でも講師も知らないことは(多々)あります。(以下ループ)
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
-    - [講師用](https://docs.google.com/a/dbcls.rois.ac.jp/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit?usp=sharing)
-    - [受講者質問用フォーム](http://goo.gl/slides/67dj7a)(右クリックから「新しいタブで開く」推奨)    
+    - [講師用](https://docs.google.com/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit#slide=id.p)
+    - [受講者質問用フォーム](goo.gl/slides/desxgd)(右クリックから「新しいタブで開く」推奨)    
 
 ----
 
