@@ -157,17 +157,15 @@ AJACS越後 @ 新潟大学理学部マルチメディア教室
         - [https://dbcls.rois.ac.jp/references.html#RefEx](https://dbcls.rois.ac.jp/references.html#RefEx)
 
 #### 参考文献
-
-         * Hiromasa Ono, Osamu Ogasawara, Kosaku Okubo, Hidemasa Bono
-             **RefEx, a reference gene expression dataset as a web tool for the functional analysis of genes**
+  * Hiromasa Ono, Osamu Ogasawara, Kosaku Okubo, Hidemasa Bono
+     **RefEx, a reference gene expression dataset as a web tool for the functional analysis of genes**
              Scientific Data, 4:170105
              [DOI: 10.1038/sdata.2017.105](http://doi.org/10.1038/sdata.2017.105)
-         * 川路 英哉、粕川 雄也、坊農 秀雅、小野 浩雅 「FANTOM5データを誰でも活用できる形に」 Scientific Data誌著者インタビュー (平成29年8月29日)
+  * 川路 英哉、粕川 雄也、坊農 秀雅、小野 浩雅 「FANTOM5データを誰でも活用できる形に」 Scientific Data誌著者インタビュー (平成29年8月29日)
              https://www.natureasia.com/ja-jp/scientificdata/papers-from-japan/fantom5
-         * 小野 浩雅・坊農 秀雅 「遺伝子発現解析の基準となるデータを快適に検索できるウェブツールRefEx」 ライフサイエンス新着論文レビュー (平成29年9月5日)
+  * 小野 浩雅・坊農 秀雅 「遺伝子発現解析の基準となるデータを快適に検索できるウェブツールRefEx」 ライフサイエンス新着論文レビュー (平成29年9月5日)
              [DOI: 10.7875/first.author.2017.093](http://doi.org/10.7875/first.author.2017.093)
-         * 統合TV 「RefExの使い方」[DOI: 10.7875/togotv.2014.009](http://doi.org/10.7875/togotv.2014.009)
-
+  * 統合TV 「RefExの使い方」[DOI: 10.7875/togotv.2014.009](http://doi.org/10.7875/togotv.2014.009)
 ----
 
 #### 【実習1】RefExを使って、組織特異的遺伝子を検索する
