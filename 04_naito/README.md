@@ -77,6 +77,38 @@ AJACS越後：塩基配列解析のためのデータベース・ウェブツー
     - [高速配列検索 GGGenome《ゲゲゲノム》の使い方](http://togotv.dbcls.jp/ja/20131025.html)
     - [GGGenome《ゲゲゲノム》で転写因子結合サイトを検索してゲノムブラウザに表示する](http://togotv.dbcls.jp/ja/20150721.html)
   - ミスマッチやギャップを含む検索 – http://GGGenome.dbcls.jp/hg19/2/TTCACTGACAACATTGAGTA
+  - コマンドラインから塩基配列検索
+```
+% curl -s 'http://GGGenome.dbcls.jp/hg38/TTCATTGACAACATT.bed' ← コマンドラインからゲゲゲノム検索
+track name=GGGenome description="GGGenome matches"
+chr1	82996792	82996807	.	0	+
+chr2	160366603	160366618	.	0	+
+chr3	15248282	15248297	.	0	+
+chr3	84570693	84570708	.	0	+
+chr4	16133027	16133042	.	0	+
+chr4	62165421	62165436	.	0	+
+chr4	148912065	148912080	.	0	+
+chr4	165800997	165801012	.	0	+
+chr6	61998310	61998325	.	0	+
+chr7	3524040	3524055	.	0	+
+chr8	31498628	31498643	.	0	+
+chr11	24472483	24472498	.	0	+
+chr13	84191411	84191426	.	0	+
+chr18	29571723	29571738	.	0	+
+chr19	41061360	41061375	.	0	+
+chr2	196213135	196213150	.	0	-
+chr3	57200490	57200505	.	0	-
+chr3	97360477	97360492	.	0	-
+chr5	9759390	9759405	.	0	-
+chr7	34118948	34118963	.	0	-
+chr7	78722087	78722102	.	0	-
+chr12	79107513	79107528	.	0	-
+chr19	40892286	40892301	.	0	-
+% curl -s 'http://GGGenome.dbcls.jp/hg38/TTCATTGACAACATT.bed'| wc ← 行数をカウント
+      24     142     728
+% curl -s 'http://GGGenome.dbcls.jp/hg38/TTCATTGACAACATT.bed'| grep chr8 ← これを含む行を絞り込み
+chr8	31498628	31498643	.	0	+
+```
   - 表計算ソフトで塩基配列検索
     - [Googleスプレッドシート](https://docs.google.com/spreadsheet/ccc?key=0AqoKv30zqpDbdHJpSFI1SzJOZmxjVkYzUXByMFhrWWc&usp=sharing#gid=0) を参照
   - 検索結果をゲノムブラウザ上に表示
