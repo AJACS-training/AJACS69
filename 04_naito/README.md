@@ -1,165 +1,155 @@
-![images/AJACS69_04_naito_001.jpg](images/AJACS69_04_naito_001.jpg)
----
+AJACS越後：塩基配列解析のためのデータベース・ウェブツールとCRISPRガイドRNA設計
+---------------
 
-![images/AJACS69_04_naito_002.jpg](images/AJACS69_04_naito_002.jpg)
----
+ライフサイエンス統合データベースセンター（DBCLS）  
+内藤 雄樹（[自己紹介](http://researchmap.jp/meso_cacase/)）  
+2018年6月27日 統合データベース講習会 AJACS越後  
+新潟大学理学部マルチメディア教室
 
-![images/AJACS69_04_naito_003.jpg](images/AJACS69_04_naito_003.jpg)
----
+  - [スライドPDF](AJACS69_04_naito.pdf)
 
-![images/AJACS69_04_naito_004.jpg](images/AJACS69_04_naito_004.jpg)
----
+講習で紹介するデータベースやウェブツールへのリンクです。
 
-![images/AJACS69_04_naito_005.jpg](images/AJACS69_04_naito_005.jpg)
----
+#### NCBI ####
 
-![images/AJACS69_04_naito_006.jpg](images/AJACS69_04_naito_006.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/ncbi_600.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_007.jpg](images/AJACS69_04_naito_007.jpg)
----
+  - NCBI - http://www.ncbi.nlm.nih.gov/
 
-![images/AJACS69_04_naito_008.jpg](images/AJACS69_04_naito_008.jpg)
----
+#### NCBI BLAST ####
 
-![images/AJACS69_04_naito_009.jpg](images/AJACS69_04_naito_009.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/ncbiblast_600.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_010.jpg](images/AJACS69_04_naito_010.jpg)
----
+  - NCBI BLAST - http://www.ncbi.nlm.nih.gov/BLAST
 
-![images/AJACS69_04_naito_011.jpg](images/AJACS69_04_naito_011.jpg)
----
+#### UCSC BLAT ####
 
-![images/AJACS69_04_naito_012.jpg](images/AJACS69_04_naito_012.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/BLAT.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_013.jpg](images/AJACS69_04_naito_013.jpg)
----
+  - UCSC BLAT - https://genome.ucsc.edu/cgi-bin/hgBlat
+  - 配列を探してみよう - tgaatgaagacgatcgactcaaattcacagctccacaggatggaattcttcttaacaaagctcgacaattcgga （線虫）
+  - 統合TVによる解説動画
+    - [高速アラインメントツールBLATをプライマー設計支援ツールとして使い倒す2009](http://togotv.dbcls.jp/ja/20090619.html)
 
-![images/AJACS69_04_naito_014.jpg](images/AJACS69_04_naito_014.jpg)
----
+#### UCSCゲノムブラウザ ####
 
-![images/AJACS69_04_naito_015.jpg](images/AJACS69_04_naito_015.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/867440539.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_016.jpg](images/AJACS69_04_naito_016.jpg)
----
+  - UCSCゲノムブラウザ – https://genome.ucsc.edu/cgi-bin/hgTracks
+  - 統合TVによる解説動画
+    - [UCSC Genome Browserの使い方〜基本編](http://togotv.dbcls.jp/ja/20091113.html)
+    - [UCSC Genome Browserの使い方〜表示編](http://togotv.dbcls.jp/ja/20091126.html)
+    - [UCSC Genome Browser の使い方〜アノテーショントラック編〜](http://togotv.dbcls.jp/ja/20100722.html)
+    - [UCSC Genome Browserの使い方〜wig形式のファイルをトラックとして追加する〜](http://togotv.dbcls.jp/ja/20120116.html)
+    - [UCSC Genome Browserの使い方〜表示+ENCODE編〜 2012](http://togotv.dbcls.jp/ja/20120528.html)
+    - [UCSC genome browserの使い方～配列取得編～2013](http://togotv.dbcls.jp/ja/20131113.html)
 
-![images/AJACS69_04_naito_017.jpg](images/AJACS69_04_naito_017.jpg)
----
 
-![images/AJACS69_04_naito_018.jpg](images/AJACS69_04_naito_018.jpg)
----
+#### 統合遺伝子検索GGRNA ####
 
-![images/AJACS69_04_naito_019.jpg](images/AJACS69_04_naito_019.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/GGRNA.v2.jpg
+"スクリーンショット")
 
-![images/AJACS69_04_naito_020.jpg](images/AJACS69_04_naito_020.jpg)
----
+  - 統合遺伝子検索GGRNA – http://GGRNA.dbcls.jp/
+  - 統合TVによる解説動画
+    - [GGRNAで遺伝子をGoogleのように検索する](http://togotv.dbcls.jp/ja/20120124.html)
+  - ヒトのnanogを検索 – http://GGRNA.dbcls.jp/hs/nanog
+  - Accession番号から検索 –  http://GGRNA.dbcls.jp/NM_003380
+  - 塩基配列から検索
+    - 14bp – http://GGRNA.dbcls.jp/hs/caagaagagattgc
+    - 11bp – http://GGRNA.dbcls.jp/hs/caagaagagat
+    - 8bp – http://GGRNA.dbcls.jp/hs/caagaaga
+  - アミノ酸配列から検索 – http://GGRNA.dbcls.jp/SEHPL+MTCQSC
+  - PCRプライマー検索 – http://GGRNA.dbcls.jp/hs/seq%3aagctcattactttatcagtgca+comp%3atgacgtattcactcttctggtt
+  - マイクロアレイのプローブ検索 – http://GGRNA.dbcls.jp/1552311_a_at
 
-![images/AJACS69_04_naito_021.jpg](images/AJACS69_04_naito_021.jpg)
----
+#### 高速配列検索GGGenome ####
 
-![images/AJACS69_04_naito_022.jpg](images/AJACS69_04_naito_022.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/GGGenome_screen2.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_023.jpg](images/AJACS69_04_naito_023.jpg)
----
+- 高速配列検索GGGenome – http://GGGenome.dbcls.jp/
+  - 統合TVによる解説動画
+    - [高速配列検索 GGGenome《ゲゲゲノム》の使い方](http://togotv.dbcls.jp/ja/20131025.html)
+    - [GGGenome《ゲゲゲノム》で転写因子結合サイトを検索してゲノムブラウザに表示する](http://togotv.dbcls.jp/ja/20150721.html)
+  - ミスマッチやギャップを含む検索 – http://GGGenome.dbcls.jp/hg19/2/TTCACTGACAACATTGAGTA
+  - 表計算ソフトで塩基配列検索
+    - [Googleスプレッドシート](https://docs.google.com/spreadsheet/ccc?key=0AqoKv30zqpDbdHJpSFI1SzJOZmxjVkYzUXByMFhrWWc&usp=sharing#gid=0) を参照
+  - 検索結果をゲノムブラウザ上に表示
+    1. UCSCゲノムブラウザ (http://genome.ucsc.edu/cgi-bin/hgTracks)
+    2. 「add custom tracks」ボタン
+    3. 「http://GGGenome.dbcls.jp/hg19/(検索したい配列).bed」と入力
 
-![images/AJACS69_04_naito_024.jpg](images/AJACS69_04_naito_024.jpg)
----
+#### CRISPR設計ウェブサーバCRISPRdirect ####
 
-![images/AJACS69_04_naito_025.jpg](images/AJACS69_04_naito_025.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/CRISPRscreen.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_026.jpg](images/AJACS69_04_naito_026.jpg)
----
+  - CRISPRdirect - http://crispr.dbcls.jp/
+  - 統合TVによる解説動画
+    - [CRISPRdirectを使ってCRISPR/Cas法のガイドRNA配列を設計する](http://togotv.dbcls.jp/ja/20140412.html)
 
-![images/AJACS69_04_naito_027.jpg](images/AJACS69_04_naito_027.jpg)
----
+#### 参考：各生物種のゲノム ####
 
-![images/AJACS69_04_naito_028.jpg](images/AJACS69_04_naito_028.jpg)
----
+  - NCBI Genome - https://www.ncbi.nlm.nih.gov/genome/browse/
+  - Ensembl Genomes - http://ensemblgenomes.org/
+    - 昆虫はEnsembl Metazoa - http://metazoa.ensembl.org/
+    - 植物はEnsembl Plants - http://plants.ensembl.org/
 
-![images/AJACS69_04_naito_029.jpg](images/AJACS69_04_naito_029.jpg)
----
+#### おまけ：研究に役立つウェブツール ####
 
-![images/AJACS69_04_naito_030.jpg](images/AJACS69_04_naito_030.jpg)
----
+  - siRNA設計ツールsiDirect - http://siDirect2.RNAi.jp/
+  - 統合TVによる解説動画
+    - [siDirectでsiRNAを設計する2011](http://togotv.dbcls.jp/ja/20110606.html)
+    - [siDirectのオプションを使いこなす & shRNAを設計する](http://togotv.dbcls.jp/ja/20110712.html)
 
-![images/AJACS69_04_naito_031.jpg](images/AJACS69_04_naito_031.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/siDirect_top.jpg
+"スクリーンショット")
 
-![images/AJACS69_04_naito_032.jpg](images/AJACS69_04_naito_032.jpg)
----
+  - テキスト比較ツール difff《ﾃﾞｭﾌﾌ》(http://difff.jp/)
+  - 統合TVによる解説動画
+    - [difff《ﾃﾞｭﾌﾌ》を使って文章の変更箇所を調べる](http://togotv.dbcls.jp/ja/20130828.html)
 
-![images/AJACS69_04_naito_033.jpg](images/AJACS69_04_naito_033.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/difff6.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_034.jpg](images/AJACS69_04_naito_034.jpg)
----
+  - Wolfram Alpha (https://www.wolframalpha.com/)
+  - 統合TVによる解説動画
+    - [WolframAlphaを使い倒す](http://togotv.dbcls.jp/ja/20090626.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その1:基本操作編](http://togotv.dbcls.jp/ja/20140404.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その2:数式入力編](http://togotv.dbcls.jp/ja/20140604.html)
+    - [Wolfram Alpha を高機能関数電卓として使う その3:微分・積分・方程式編](http://togotv.dbcls.jp/ja/20140717.html)
 
-![images/AJACS69_04_naito_035.jpg](images/AJACS69_04_naito_035.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/Wolframalpha1.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_036.jpg](images/AJACS69_04_naito_036.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/Wolframalpha2.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_037.jpg](images/AJACS69_04_naito_037.jpg)
----
+  - TogoDB (http://togodb.org/)
+  - 統合TVによる解説動画
+    - [TogoDBの使い方 自分のデータベースを作る](http://togotv.dbcls.jp/ja/20100807.html)
 
-![images/AJACS69_04_naito_038.jpg](images/AJACS69_04_naito_038.jpg)
----
+![スクリーンショット](http://data.dbcls.jp/~meso/img/TogoDB.png
+"スクリーンショット")
 
-![images/AJACS69_04_naito_039.jpg](images/AJACS69_04_naito_039.jpg)
----
+  - 研究者の情報を調べるためのツール
+    - 研究成果から
+      - 日本の博士論文をさがす CiNii Dissertations - http://ci.nii.ac.jp/d/
+      - 特許情報プラットフォーム J-PlatPat - https://www.j-platpat.inpit.go.jp/
+    - 研究資金から
+      - 科研費採択課題 KAKEN - https://kaken.nii.ac.jp/
+      - 日本の研究.com - https://research-er.jp/
+    - 本人が発信する情報から
+      - researchmap - http://researchmap.jp/
+      - Facebook - https://www.facebook.com/
+      - Twitter - https://twitter.com/
 
-![images/AJACS69_04_naito_040.jpg](images/AJACS69_04_naito_040.jpg)
----
+  - 参考:『[今日から使える! データベース・ウェブツール 達人になるための実践ガイド100](https://www.yodosha.co.jp/jikkenigaku/book/9784758103435/)』実験医学増刊 2014年12月発行
 
-![images/AJACS69_04_naito_041.jpg](images/AJACS69_04_naito_041.jpg)
----
-
-![images/AJACS69_04_naito_042.jpg](images/AJACS69_04_naito_042.jpg)
----
-
-![images/AJACS69_04_naito_043.jpg](images/AJACS69_04_naito_043.jpg)
----
-
-![images/AJACS69_04_naito_044.jpg](images/AJACS69_04_naito_044.jpg)
----
-
-![images/AJACS69_04_naito_045.jpg](images/AJACS69_04_naito_045.jpg)
----
-
-![images/AJACS69_04_naito_046.jpg](images/AJACS69_04_naito_046.jpg)
----
-
-![images/AJACS69_04_naito_047.jpg](images/AJACS69_04_naito_047.jpg)
----
-
-![images/AJACS69_04_naito_048.jpg](images/AJACS69_04_naito_048.jpg)
----
-
-![images/AJACS69_04_naito_049.jpg](images/AJACS69_04_naito_049.jpg)
----
-
-![images/AJACS69_04_naito_050.jpg](images/AJACS69_04_naito_050.jpg)
----
-
-![images/AJACS69_04_naito_051.jpg](images/AJACS69_04_naito_051.jpg)
----
-
-![images/AJACS69_04_naito_052.jpg](images/AJACS69_04_naito_052.jpg)
----
-
-![images/AJACS69_04_naito_053.jpg](images/AJACS69_04_naito_053.jpg)
----
-
-![images/AJACS69_04_naito_054.jpg](images/AJACS69_04_naito_054.jpg)
----
-
-![images/AJACS69_04_naito_055.jpg](images/AJACS69_04_naito_055.jpg)
----
-
+![スクリーンショット](http://data.dbcls.jp/~meso/img/B2uOQ3eCIAAFX9A.png
+"スクリーンショット")
